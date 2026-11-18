@@ -2,7 +2,7 @@
   <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:07110E,100:227A53&amp;height=120&amp;section=header">
 </p>
 
-<h1 align="center">Hey, I'm zur.</h1>
+<h1 align="center">Welcome.</h1>
 
 <p align="center">
   <code>@ic3-gov</code>
