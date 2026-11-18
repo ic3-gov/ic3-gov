@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:07110E,100:227A53&amp;height=120&amp;section=header">
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1C4BA1,100:22287A&amp;height=120&amp;section=header">
 </p>
 
 <h1 align="center">Welcome.</h1>
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ic3-gov#js-contribution-activity">GitHub activity</a>
-  &nbsp;·&nbsp;
-  <a href="https://discord.victimized.lol/">Discord</a>
+  <a href="https://github.com/ic3-gov#js-contribution-activity"><img alt="GitHub Activity" src="https://img.shields.io/badge/GitHub%20Activity-10261C?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIgMTJoNWwzLTggNCAxNiAzLThoNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjODZlZmFjIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D"></a>
+  &nbsp;
+  <a href="https://discord.victimized.lol/"><img alt="Discord" src="https://img.shields.io/badge/Discord-343A83?style=for-the-badge&amp;logo=discord&amp;logoColor=white"></a>
 </p>
