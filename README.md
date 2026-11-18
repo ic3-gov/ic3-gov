@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:07110E,100:227A53&amp;height=120&amp;section=header">
+</p>
 
-<!--
-**ic3-gov/ic3-gov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm zur.</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <code>@ic3-gov</code>
+  <br><br>
+  I like building tools and experimenting with code.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Languages</h2>
+
+<p align="center">
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-121D32?style=for-the-badge&amp;logo=lua&amp;logoColor=A9BFFF">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-292313?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-301B18?style=for-the-badge&amp;logo=html5&amp;logoColor=FF8060">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ic3-gov#js-contribution-activity">GitHub activity</a>
+  &nbsp;·&nbsp;
+  <a href="https://discord.victimized.lol/">Discord</a>
+</p>
